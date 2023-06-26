@@ -9,18 +9,22 @@
 ## Output Screenshot
 
 1. Below screenshot demonstrates the Seed data being added in the database
+   The video file can be found: [here](./output/DB_Seed.webm)
 
    ![DB Seed Screenshot](./screenshots/DB_Seed.gif)
 
 2. Below Screenshot demonstrates the GET, POST, PUT and Delete operatiosn for Model Category
+   The video file can be found: [here](./output/CRUD_Category.webm)
 
    ![CRUD Categroy Screenshot](./screenshots/CRUD_Category.gif)
 
 3. Below Screenshot demonstrates the GET, POST, PUT and Delete operatiosn for Model Product
+   The video file can be found: [here](./output/CRUD_Products.webm)
 
    ![CRUD Categroy Screenshot](./screenshots/CRUD_Products.gif)
 
 4. Below Screenshot demonstrates the GET, POST, PUT and Delete operatiosn for Model Tags
+   The video file can be found: [here](./output/CRUD_TAGS.webm)
 
    ![CRUD Categroy Screenshot](./screenshots/CRUD_TAG.gif)
 
