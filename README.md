@@ -4,22 +4,24 @@
   
 🔍 This application demonstrates the CRUD operations using sequalize models.
 
-1. [Heorku Deployed NoteTaker URL](https://desolate-wildwood-73798.herokuapp.com/)
-2. [GitHub Repo NoteTaker URL](https://github.com/shahnidhi20/HW11_NoteTaker)
-3. Heroku URL: https://desolate-wildwood-73798.herokuapp.com/
+1. [GitHub Repo E-Commerce URL](https://github.com/shahnidhi20/HW13_E-Commerce/)
 
 ## Output Screenshot
 
 1. Below screenshot demonstrates the Seed data being added in the database
+
    ![DB Seed Screenshot](./screenshots/DB_Seed.gif)
 
-2. Below Screenshot demonstrates the GET, POST, PUT and Delte operatiosn for Model Category
+2. Below Screenshot demonstrates the GET, POST, PUT and Delete operatiosn for Model Category
+
    ![CRUD Categroy Screenshot](./screenshots/CRUD_Category.gif)
 
-3. Below Screenshot demonstrates the GET, POST, PUT and Delte operatiosn for Model Product
+3. Below Screenshot demonstrates the GET, POST, PUT and Delete operatiosn for Model Product
+
    ![CRUD Categroy Screenshot](./screenshots/CRUD_Products.gif)
 
-4. Below Screenshot demonstrates the GET, POST, PUT and Delte operatiosn for Model Tags
+4. Below Screenshot demonstrates the GET, POST, PUT and Delete operatiosn for Model Tags
+
    ![CRUD Categroy Screenshot](./screenshots/CRUD_TAG.gif)
 
 ## User Story
@@ -64,9 +66,8 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Usage
 
 Run the following command at th root of your project and answer the prompted questions:
- `npm run seed`
- `npm start`
- 
+`npm run seed`
+`npm start`
 
 ## Contributing
 
